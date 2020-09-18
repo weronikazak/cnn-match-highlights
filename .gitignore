@@ -2,3 +2,5 @@ videos
 *.mp4
 frames
 .ipynb_checkpoints
+cnn_highlights
+model
